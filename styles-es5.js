@@ -527,11 +527,11 @@
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! E:\WFH\Angular\Day 7\datatable\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */
+    /*! /Users/arjun/Documents/projects/QrCodeScanner-scanner/node_modules/@angular/material/prebuilt-themes/indigo-pink.css */
     "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
 
     module.exports = __webpack_require__(
-    /*! E:\WFH\Angular\Day 7\datatable\src\styles.css */
+    /*! /Users/arjun/Documents/projects/QrCodeScanner-scanner/src/styles.css */
     "./src/styles.css");
     /***/
   }
